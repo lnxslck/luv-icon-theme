@@ -1,10 +1,8 @@
 luv-icon-theme for Debian
 ------------------------
 
-<this file describes information about the source package, see Debian policy
-manual section 4.14. You WILL either need to modify or delete this file>
+This package contains the source of the luv icon theme.
 
 
-
- -- Alexis López Zubieta <alexis@unknown>  Sat, 27 May 2017 13:46:39 -0500
+ -- Alexis López Zubieta <contact@nitrux.com>  Sat, 27 May 2017 13:46:39 -0500
 
