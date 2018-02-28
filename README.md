@@ -1,10 +1,11 @@
-Lüv (icon theme) - Upstream repository
+Lüv (icon theme) - deb releases
 ==============
 
-## [Sponsor Lüv by clicking here!](http://uriherrera.com/sponsor/). We truly appreciate the support you can give us.
+## [Sponsor Lüv by clicking here!](https://nxos.org/#sponsor).
+## Your support is truly appreciated.
 
 
-![Lüv preview](http://i.imgur.com/xqPuYYZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
+![Lüv preview](https://i.imgur.com/RojjKDZ.png " Lüv is the spiritual successor to Flattr, a flat but complex icon theme for freedesktop environments. ")
 
 Icons are licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)
 
@@ -18,8 +19,6 @@ Icons and wallpapers are available to download directly from this repository. Cl
 
 * In a Terminal execute the following command: 
   * `git clone https://github.com/Nitrux/luv-icon-theme.git`
-
-Alternatively, click [**here**](https://github.com/Nitrux/luv-icon-theme/releases/) for the latest release.
 
 Install
 ========
