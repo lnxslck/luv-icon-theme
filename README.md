@@ -1,4 +1,4 @@
-Lüv (icon theme) - deb releases
+Lüv (icon theme)
 ==============
 
 ## [Sponsor Lüv by clicking here!](https://nxos.org/#sponsor).
